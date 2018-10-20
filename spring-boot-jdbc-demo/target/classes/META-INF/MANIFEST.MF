@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tanmoy
+Implementation-Vendor-Id: com.xx.spring.boot.jdbc
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-jdbc-demo
+Created-By: Maven Integration for Eclipse
+
